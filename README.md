@@ -38,6 +38,14 @@ Criaremos um recurso de Fala de IA.
 
 5. Revise a saída, que deve ter reconhecido e transcrito com sucesso o áudio em texto.
 
+<img width="934" alt="image" src="https://github.com/jacquelinepalumbo/Speech_Studio/assets/119548193/99ce7e0e-30e8-4efd-87f9-becbbcd09eb9">
 
 
-Neste exercício, você criou um recurso de Fala de IA no Speech Studio. Em seguida, você usou o serviço de conversão de fala em tempo real para texto para transcrever uma gravação de áudio. Você pôde ver a transcrição de texto sendo gerada à medida que o arquivo de áudio era reproduzido.
+## Insights:
+
+* A a conversão de voz em texto no **aumentar a inclusão**, pois, por exemplo, podemos incluir a diversidade e a inclusão na educação e na globalização, ja que podemos ofornecer legendas para diversas línguas no mundo.
+
+*Podemos também gerar um aumento no mercado mundial, já que podemos captar mais clientes que antes não conseguiam ter acessando o conteúdo por ser de um língua diferente.
+
+* O Speech Studio transcreve e legenda aúdios em tempo real. Isso economiza uma enorme quantidade de trabalho dos transcritores.
+
