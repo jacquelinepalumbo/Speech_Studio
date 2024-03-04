@@ -2,6 +2,7 @@
 
 O serviço de **Fala** de **IA do Azure** transcreve fala em texto e texto em fala audível.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=30A3DC)](https://www.linkedin.com/in/jacqueline-ribeiro-743876247/)
 
 ## Criar um recurso de Fala de IA do Azure
 
@@ -45,7 +46,14 @@ Criaremos um recurso de Fala de IA.
 
 * A a conversão de voz em texto no **aumentar a inclusão**, pois, por exemplo, podemos incluir a diversidade e a inclusão na educação e na globalização, ja que podemos ofornecer legendas para diversas línguas no mundo.
 
-*Podemos também gerar um aumento no mercado mundial, já que podemos captar mais clientes que antes não conseguiam ter acessando o conteúdo por ser de um língua diferente.
+* Podemos também gerar um aumento no mercado mundial, já que podemos captar mais clientes que antes não conseguiam ter acessando o conteúdo por ser de um língua diferente.
 
 * O Speech Studio transcreve e legenda aúdios em tempo real. Isso economiza uma enorme quantidade de trabalho dos transcritores.
 
+
+# Referências:
+
+
+[Explore Speech Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)
+
+&nbsp;
