@@ -1,8 +1,9 @@
 # Microsoft Speech Studio
 
-O serviço de **Fala** de **IA do Azure** transcreve fala em texto e texto em fala audível.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=30A3DC)](https://www.linkedin.com/in/jacqueline-ribeiro-743876247/)
+
+
+O serviço de **Fala** de **IA do Azure** transcreve fala em texto e texto em fala audível.
 
 ## Criar um recurso de Fala de IA do Azure
 
