@@ -9,7 +9,7 @@ Você pode usar o serviço de Fala criando um recurso de **Fal**a ou um recurso 
 
 Criaremos um recurso de Fala de IA.
 
-1.Em outra guia do navegador, abra o Azure AI Speech Studio, entrando com sua conta da Microsoft.
+1.Em outra guia do navegador, abra [o Azure AI Speech Studio](https://speech.microsoft.com/portal), entrando com sua conta da Microsoft.
 
 2. Selecione **Configurações** e **Criar um recurso**. Configure-o com as seguintes configurações:
 * **Nome do novo recurso**: insira um nome exclusivo.
